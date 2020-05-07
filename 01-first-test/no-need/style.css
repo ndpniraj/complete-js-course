@@ -1,0 +1,17 @@
+.container {
+	font-family: sans-serif;
+	display: flex;
+	height: 50vh;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	box-sizing: border-box;
+	padding: 20px;
+}
+.title {
+	margin-bottom: 20px;
+	color: rgb(117, 114, 114);
+}
+span {
+	color: green;
+}
